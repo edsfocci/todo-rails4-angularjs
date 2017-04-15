@@ -2,6 +2,8 @@
 
 This is a todo list management application, written in Rails 4 and AngularJS. Tasks support CRUD operations as well as drag&drop sorting and setting due dates via a popup calendar. All task operations are done on the client side and synchronized to the server. The application sports a RESTful API used by AngularJS SPA and also usable standalone.
 
+Check out the demo at [todo-rails4-angularjs-ed](https://todo-rails4-angularjs-ed.herokuapp.com/).
+
 ## Technologies used
 
 ### Frontend
